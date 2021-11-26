@@ -24,7 +24,7 @@ In May 2017 IBM released Kubernetes support as the IBM Cloud Container Service, 
 
 ## Customer base
 
-To be filled in...
+- In 2019, it has been reported that IBM has once again partnered with the [[United_States_Tennis_Association|United States Tennis Association (USTA)]] and they're using new AI-powered tools during the [[US_Open_(tennis)|US Open]] to deliver AI-generated highlights, real-time stats and match analysis, as well as an onsite experience center where attendees can experience AI in action.<ref>{{cite web|url=https://www.techrepublic.com/article/how-ibm-is-delivering-ai-generated-highlights-at-the-us-open/ |title=How IBM is delivering AI-generated highlights at the US Open |date=September 8, 2019 | access-date=November 26, 2021}}</ref>
 
 ## Significant service outages
 
